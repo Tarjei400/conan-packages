@@ -1,0 +1,4 @@
+1605305264
+conandata.yml: e7f4387cbd8cb31554cbeec240e35884
+conanfile.py: 65469ad4337ecbe717cc204b1c56a233
+export_source/patches/1.1.1-tvos.patch: f1ec0a20dd1941cbfb2c59055af5266f

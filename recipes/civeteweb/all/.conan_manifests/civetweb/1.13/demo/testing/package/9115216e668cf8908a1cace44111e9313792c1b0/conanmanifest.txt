@@ -1,0 +1,12 @@
+1607937987
+bin/civetweb: 2d467595ac7efba2d2daf00ce0323a40
+conaninfo.txt: b96df62f95dc41774ccfa3bdd5e77913
+include/CivetServer.h: 01c3e4c7d9717f7fbc752f4559f63723
+include/civetweb.h: 076e0cc532b1bfbc316fcf13212b590c
+lib/cmake/civetweb/civetweb-config-version.cmake: c91e203c63732bbe120c975fc9124a93
+lib/cmake/civetweb/civetweb-config.cmake: d3de50980963b5d9346ecc060ffa7de1
+lib/cmake/civetweb/civetweb-targets-release.cmake: d7430f5e90f96c37d52807dfaa895993
+lib/cmake/civetweb/civetweb-targets.cmake: 73ff8808fea82f9f471bd657c492adc3
+lib/libcivetweb-cpp.a: 1a9a33848b5435e5787fd5b5b63503ba
+lib/libcivetweb.a: d639b319e1fb85c795f7f5bd282f3282
+licenses/LICENSE.md: 085074e941d26777f54106f9af4af29c

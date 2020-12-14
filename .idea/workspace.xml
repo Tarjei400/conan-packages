@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5fe3846a-245d-4069-9fd1-a69da1d99152" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/conan-recipes.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator-enh.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/civeteweb/all/.conan_manifests/civetweb/1.13/demo/testing/export/conanmanifest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/civeteweb/all/.conan_manifests/civetweb/1.13/demo/testing/package/55e46b3e5a5e4597c0a1cbbbe7d6a0e2a6efe996/conanmanifest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/civeteweb/all/.conan_manifests/civetweb/1.13/demo/testing/package/9115216e668cf8908a1cace44111e9313792c1b0/conanmanifest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/civeteweb/all/.conan_manifests/openssl/1.1.1c/_/_/export/conanmanifest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/civeteweb/all/.conan_manifests/openssl/1.1.1c/_/_/package/95382baad1eea282b0204228603f9795cf17a845/conanmanifest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/civeteweb/all/.conan_manifests/openssl/1.1.1c/_/_/package/f74366f76f700cc6e991285892ad7a23c30e6d47/conanmanifest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/civeteweb/all/.conan_manifests/openssl/1.1.1d/_/_/export/conanmanifest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/civeteweb/all/.conan_manifests/openssl/1.1.1d/_/_/package/f74366f76f700cc6e991285892ad7a23c30e6d47/conanmanifest.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/civeteweb/all/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/civeteweb/all/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/civeteweb/all/LICENSE.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/civeteweb/all/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/civeteweb/all/build.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/civeteweb/all/conandata.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/civeteweb/all/conanfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/civeteweb/all/test_package/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/civeteweb/all/test_package/.idea/markdown-navigator-enh.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/civeteweb/all/test_package/.idea/markdown-navigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/civeteweb/all/test_package/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/civeteweb/all/test_package/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/civeteweb/all/test_package/.idea/test_package.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/civeteweb/all/test_package/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/civeteweb/all/test_package/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/civeteweb/all/test_package/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/civeteweb/all/test_package/conanfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/civeteweb/all/test_package/test_package.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/civeteweb/config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/ppconsul/all/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/ppconsul/all/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/ppconsul/all/conandata.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/ppconsul/all/conanfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/ppconsul/all/test_package/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/ppconsul/all/test_package/conanfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/ppconsul/all/test_package/test_package.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/ppconsul/config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/prometheus-cpp/all/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/prometheus-cpp/all/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/prometheus-cpp/all/civetweb-config.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/prometheus-cpp/all/conandata.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/prometheus-cpp/all/conanfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/prometheus-cpp/all/test_package/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/prometheus-cpp/all/test_package/conanfile.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/prometheus-cpp/all/test_package/test_package.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/recipes/prometheus-cpp/config.yml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ProjectId" id="1lVd1Og8Y1R4VniKN3xYmoEFBPt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/recipes/civeteweb/all/test_package" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/recipes/civeteweb/all/test_package" />
+      <recent name="$PROJECT_DIR$/recipes/prometheus-cpp/all" />
+      <recent name="$PROJECT_DIR$/recipes/ppconsul/all" />
+      <recent name="$PROJECT_DIR$/recipes/civeteweb/all" />
+      <recent name="$PROJECT_DIR$/recipes/civeteweb" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/recipes/conan-civetweb-master/all" />
+      <recent name="$PROJECT_DIR$/recipes/ppconsul/all" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5fe3846a-245d-4069-9fd1-a69da1d99152" name="Default Changelist" comment="" />
+      <created>1607685976971</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607685976971</updated>
+      <workItem from="1607685978213" duration="23394000" />
+      <workItem from="1607935718553" duration="4282000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="602" y="360" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1607776532327">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="602" y="360" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1607776532327" />
+    <state x="397" y="199" key="SettingsEditor" timestamp="1607686840225">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="397" y="199" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1607686840225" />
+    <state x="595" y="299" width="908" height="522" key="find.popup" timestamp="1607783185730">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="595" y="299" width="908" height="522" key="find.popup/0.0.1792.1120@0.0.1792.1120" timestamp="1607783185730" />
+  </component>
+</project>
