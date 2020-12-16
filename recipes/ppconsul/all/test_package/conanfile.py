@@ -15,7 +15,7 @@ class TestPackageConan(ConanFile):
         cmake.build()
 
     def test(self):
-        assert os.path.isfile(os.path.join(self.deps_cpp_info["civetweb"].rootpath, "licenses", "LICENSE_1_0.txt"))
+        assert os.path.isfile(os.path.join(self.deps_cpp_info["ppconsul"].rootpath, "licenses", "LICENSE_1_0.txt"))
 
         if not tools.cross_building(self.settings):
             bin_path = os.path.join("bin", "test_package")

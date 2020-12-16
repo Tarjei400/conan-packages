@@ -16,7 +16,7 @@ class PpconsulConan(ConanFile):
         "shared": False,
         "libcurl:shared": True
     }
-    generators = "cmake"
+    generators = "cmake", "cmake_find_package"
 
     @property
     def _source_subfolder(self):
@@ -45,7 +45,7 @@ class PpconsulConan(ConanFile):
         self.copy("*.so", dst="lib", keep_path=False)
         self.copy("*.dylib", dst="lib", keep_path=False)
         self.copy("*.a", dst="lib", keep_path=False)
-        self.copy("LICENSE_1_0.txt", dst="licenses")
+        self.copy("LICENSE*", dst="licenses")
 
 
     def package_info(self):
